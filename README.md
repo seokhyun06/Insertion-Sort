@@ -16,7 +16,7 @@
 - 다음 우선권인 6은 8과 비교하여 우선권(6)이 더 작으므로 왼쪽으로 삽입되고 우선권(6)이 4보다 크므로 다시 본인의 자리로 돌아간다.
 
 ### Code
-![image](https://user-images.githubusercontent.com/122009563/223405295-166a1c8d-e5d9-487b-9757-e80f8dce3755.png)
+![image](https://user-images.githubusercontent.com/122009563/223405480-19b9a1ab-c4bd-4277-b0b8-0f67ad750b80.png)
 
 ### 실행결과
 ![image](https://user-images.githubusercontent.com/122009563/223347374-8556b25c-07ee-4c65-a828-be6d79a204e7.png)
