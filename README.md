@@ -17,9 +17,9 @@
 
 ### Code
  #void insertion Sort(int arr, int size) {
-    #int i, j, temp;
-    #for(i = 1; i < size; i++) {
-      #temp = arr[i];
+    # int i, j, temp;
+    # for(i = 1; i < size; i++) {
+      # temp = arr[i];
     #  for(j = i; j > 0 && arr[j-1] > temp : j -1) {
      #   arr[j] = arr[j-1];
       #     arr[j] = temp;
