@@ -16,10 +16,10 @@
 - 다음 우선권인 6은 8과 비교하여 우선권(6)이 더 작으므로 왼쪽으로 삽입되고 우선권(6)이 4보다 크므로 다시 본인의 자리로 돌아간다.
 
 ### Code
- void insertion Sort(int arr, int size) {
-    int i, j, temp;
-    for(i = 1; i < size; i++) {
-      temp = arr[i];
+ #void insertion Sort(int arr, int size) {
+    #int i, j, temp;
+    #for(i = 1; i < size; i++) {
+      #temp = arr[i];
     #  for(j = i; j > 0 && arr[j-1] > temp : j -1) {
      #   arr[j] = arr[j-1];
       #     arr[j] = temp;
